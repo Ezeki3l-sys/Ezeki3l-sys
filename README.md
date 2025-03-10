@@ -1,5 +1,9 @@
 <h1> Olá, tudo bem? 👋</h1>
-
+<ul>
+  <li>Nasci em 13 de março. 🌱</li>
+  <li>Resido na cidade de Sorocaba. 📫</li>
+  <li>🦄 Linguagens: **Python**.</li>
+</ul>
 <!--
 **Ezeki3l-sys/Ezeki3l-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

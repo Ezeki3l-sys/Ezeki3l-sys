@@ -3,7 +3,6 @@
   <li>Nasci em 13/03/2008. 🌱</li>
   <li>Resido na cidade de Sorocaba. 📫</li>
   <li>Linguagens: <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>JSON</b> 💬</li>
-  <li>Conhecimento em HTML e CSS. 🤔</li>
 </ul>
 
 
